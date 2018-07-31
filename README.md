@@ -7,7 +7,7 @@
 
 > A curated list of awesome things related to Statamic
 
-[Statamic](https://statamic.com) is a flat-first CMS to help designers and developers build better, easier to manage websites.
+[Statamic](https://statamic.com) is a flat-first CMS to help designers and developers build better, easier to manage websites. It's built on [Laravel](https://laravel.com) and [Vue.js](https://vuejs.org/), has an incredible and active developer community, and has been on the block since 2012.
 
 ### Contributing
 
