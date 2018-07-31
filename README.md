@@ -43,6 +43,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Statamic CLI](https://github.com/statamic/cli) - Install and manage Statamic from the command line
 - [Statamic Docker](https://github.com/danielgormly/statamic-nginx-docker) - Get started playing with Statamic in a few command lines with Docker.
 
+## Hosts
+
+List of known good and not good [hosts](https://github.com/statamic/hosts).
+
 ## Podcasts
 
 - [Content Workflows for Statamic with Jack McDade](https://ctrlclickcast.com/episodes/content-workflows-for-statamic) on Ctrl+ClickCast
