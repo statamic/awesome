@@ -28,3 +28,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Slack](http://slack.statamic.com) - At nearly 2,000 users, the Slack group is a great way to meet folks and chat Statamic.
 - [Twitter](https://twitter.com/statamic) - Follow us, or join in the official community hashtag at `#statamic`.
 - [Videos](https://youtube.com/statamic) - Find videos and screencast series on learning Statamic.
+
+## Articles
+
+- [Rebuilding Stillat.com](https://stillat.com/blog/2017/07/23/rebuilding-stillat) by John Koster - `2017-07-23`
+- [Statamic v2 on Laravel](https://zaengle.com/blog/statamic-v2-on-laravel) by Jesse Schutt/Zaengle - `2016-04-27`
