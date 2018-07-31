@@ -18,10 +18,16 @@ To be added to the list, articles should meet the following criteria:
 
 - Focus primarily on content relevant to Statamic 2
 - Written within the past 2 years
-- Include useful information and 
+- Include useful information
 
-## Sites
+### Hosts
+Lists to good webhosts should not include referral links.
+
+### Sites
 Sites running on Statamic should be submitted to [builtwithstatamic.com](https://builtwithstatamic.com).
+
+### Tools
+Tools, third party services, and other things that play well with Statamic are welcome, as long as the benefit or integration is clear and user friendly.
 
 If an item on the list no longer meets the above criteria, open an issue to have it be removed.
 
