@@ -31,5 +31,6 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
+- [Integrating E-Commerce on Statamic](https://snipcart.com/blog/integrating-e-commerce-on-statamic-flat-file-cms) by Charles Ouellet/Snipcart - `2017-05-11`
 - [Rebuilding Stillat.com](https://stillat.com/blog/2017/07/23/rebuilding-stillat) by John Koster - `2017-07-23`
 - [Statamic v2 on Laravel](https://zaengle.com/blog/statamic-v2-on-laravel) by Jesse Schutt/Zaengle - `2016-04-27`
