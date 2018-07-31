@@ -31,11 +31,11 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
-- [Integrating E-Commerce on Statamic](https://snipcart.com/blog/integrating-e-commerce-on-statamic-flat-file-cms) by Charles Ouellet/Snipcart - `2017-05-11`
-- [Rebuilding Stillat.com](https://stillat.com/blog/2017/07/23/rebuilding-stillat) by John Koster - `2017-07-23`
-- [Statamic v2 on Laravel](https://zaengle.com/blog/statamic-v2-on-laravel) by Jesse Schutt/Zaengle - `2016-04-27`
-- [Statamic's "Bard" Is an Elegant-Looking Approach to Content Management](https://opuszine.us/posts/statamic-bard-elegant-looking-approach-content-management) by Jason Morehead/Opuszine - `2018-02-22`
-- [The Perfect CMS for Ultimate Control](https://hostpresto.com/blog/statamic-the-perfect-cms-for-ultimate-control/) by Mark Edwards/HostPresto - `2018-03-26`
+- `2017-05-11` - [Integrating E-Commerce on Statamic](https://snipcart.com/blog/integrating-e-commerce-on-statamic-flat-file-cms) by Charles Ouellet/Snipcart
+- `2017-07-23` - [Rebuilding Stillat.com](https://stillat.com/blog/2017/07/23/rebuilding-stillat) by John Koster
+- `2016-04-27` - [Statamic v2 on Laravel](https://zaengle.com/blog/statamic-v2-on-laravel) by Jesse Schutt/Zaengle
+- `2018-02-22` - [Statamic's "Bard" Is an Elegant-Looking Approach to Content Management](https://opuszine.us/posts/statamic-bard-elegant-looking-approach-content-management) by Jason Morehead/Opuszine
+- `2018-03-26` - [The Perfect CMS for Ultimate Control](https://hostpresto.com/blog/statamic-the-perfect-cms-for-ultimate-control/) by Mark Edwards/HostPresto
 
 ## Dev Tools
 
