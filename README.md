@@ -41,3 +41,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 - [Statamic CLI](https://github.com/statamic/cli) - Install and manage Statamic from the command line
 - [Statamic Docker](https://github.com/danielgormly/statamic-nginx-docker) - Get started playing with Statamic in a few command lines with Docker.
+
+## Podcasts
+
+- [Content Workflows for Statamic with Jack McDade](https://ctrlclickcast.com/episodes/content-workflows-for-statamic) on Ctrl+ClickCast
+- [Jack McDade on Statamic, Digital Products, Crypto, and CrossFit](http://thestrongweb.com/jack-mcdade) on The Strong Web
