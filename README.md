@@ -45,7 +45,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Hosts
 
-List of known good and not good [hosts](https://github.com/statamic/hosts).
+A curated list of known good (and not so good) [web hosts](https://github.com/statamic/hosts).
 
 ## Podcasts
 
