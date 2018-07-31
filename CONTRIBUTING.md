@@ -41,7 +41,7 @@ When adding new items, please adhere to the following guidelines:
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
 - The description usually should not include "for Statamic", as everything on the list would have that.
-- Check your spelling and grammar. This is your change to demonstrate your knowledge of the difference between "there, their, and they're".
+- Check your spelling and grammar. This is your chance to demonstrate your knowledge of the difference between "there, their, and they're".
 - The pull request should include a link to the resource and why it should be included.
 
 Thank you for your suggestions!
