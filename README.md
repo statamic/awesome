@@ -32,8 +32,15 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ## Articles
 
 - `2018-06-04` - [Adios Datenbanken](https://medium.com/@hackfrag/statamic-als-content-management-system-adios-datenbanken-f918f1486da0) by Florian Strauß (German)
+- `2018-05-23` - [Replicate Advanced Custom Fields' Page Link field in Statamic](https://www.benfurfie.co.uk/blog/replicate-acfs-page-link-field-in-statamic) by Ben Furfie
+- `2018-05-22` - [How to output SVGs as code in Statamic's Antlers templating language](https://www.benfurfie.co.uk/blog/how-to-output-svgs-as-code-in-statamics-antlers-templating-language) by Ben Furfie
+- `2018-05-21` - [How to control the type of files that can be uploaded in Statamic via the assets fieldtype](https://www.benfurfie.co.uk/blog/how-to-control-the-type-of-files-that-can-be-uploaded-in-statamic-via-the-assets-fieldtype) by Ben Furfie
+- `2018-05-18` - [Getting focal point to work on background images when using Statamic's glide functionality](https://www.benfurfie.co.uk/blog/getting-focal-point-to-work-on-background-images-when-using-statamics-glide-functionality) by Ben Furfie
+- `2018-05-18` - [How to strip (some) markdown markup from a tag in Statamic](https://www.benfurfie.co.uk/blog/how-to-strip-markdown-markup-from-tag-in-statamic) by Ben Furfie
+- `2018-05-08` - [How to change Statamic's please CLI tool to work on just please](https://www.benfurfie.co.uk/blog/how-to-change-statamics-please-cli-tool-to-work-on-just-please) by Ben Furfie
 - `2018-03-26` - [The Perfect CMS for Ultimate Control](https://hostpresto.com/blog/statamic-the-perfect-cms-for-ultimate-control/) by Mark Edwards/HostPresto
 - `2018-02-22` - [Statamic's "Bard" Is an Elegant-Looking Approach to Content Management](https://opuszine.us/posts/statamic-bard-elegant-looking-approach-content-management) by Jason Morehead/Opuszine
+- `2017-08-17` - [Exclude current entry from collection list in Statamic](https://www.benfurfie.co.uk/blog/exclude-current-entry-from-collection-list-in-statamic) by Ben Furfie
 - `2017-05-11` - [Integrating E-Commerce on Statamic](https://snipcart.com/blog/integrating-e-commerce-on-statamic-flat-file-cms) by Charles Ouellet/Snipcart
 - `2017-07-23` - [Rebuilding Stillat.com](https://stillat.com/blog/2017/07/23/rebuilding-stillat) by John Koster
 - `2016-04-27` - [Statamic v2 on Laravel](https://zaengle.com/blog/statamic-v2-on-laravel) by Jesse Schutt/Zaengle
