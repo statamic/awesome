@@ -6,7 +6,7 @@ In order to contribute to this repository you need to **fork** it, then you can 
 - **To edit the list:** Submit a pull request
 - **To remove from the list:** Open an issue
 
-Make sure to put things in alphabetical order
+Make sure to put articles in date-order (newest first) and everything else in alphabetical order.
 
 ---
 
