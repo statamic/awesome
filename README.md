@@ -31,7 +31,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
-- `2018-06-04` - [Adios Datenbanken](https://medium.com/@hackfrag/statamic-als-content-management-system-adios-datenbanken-f918f1486da0) by Florian Strauß (German)
+- `2018-06-04` - [Adios Datenbanken](https://orlyapps.de/blog/web/statamic-als-content-management-system-adios-datenbanken) by Florian Strauß (German)
 - `2018-05-23` - [Replicate Advanced Custom Fields' Page Link field in Statamic](https://www.benfurfie.co.uk/blog/replicate-acfs-page-link-field-in-statamic) by Ben Furfie
 - `2018-05-22` - [How to output SVGs as code in Statamic's Antlers templating language](https://www.benfurfie.co.uk/blog/how-to-output-svgs-as-code-in-statamics-antlers-templating-language) by Ben Furfie
 - `2018-05-21` - [How to control the type of files that can be uploaded in Statamic via the assets fieldtype](https://www.benfurfie.co.uk/blog/how-to-control-the-type-of-files-that-can-be-uploaded-in-statamic-via-the-assets-fieldtype) by Ben Furfie
