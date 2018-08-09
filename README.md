@@ -31,6 +31,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
+- `2018-08-02` - [Using Digital Ocean Spaces and KeyCDN within Statamic](https://medium.com/@ckdnat/using-digital-ocean-spaces-and-keycdn-within-statamic-d5e58bb7eb3c) by Nat Hobson
 - `2018-06-04` - [Adios Datenbanken](https://orlyapps.de/blog/web/statamic-als-content-management-system-adios-datenbanken) by Florian Strauß (German)
 - `2018-05-23` - [Replicate Advanced Custom Fields' Page Link field in Statamic](https://www.benfurfie.co.uk/blog/replicate-acfs-page-link-field-in-statamic) by Ben Furfie
 - `2018-05-22` - [How to output SVGs as code in Statamic's Antlers templating language](https://www.benfurfie.co.uk/blog/how-to-output-svgs-as-code-in-statamics-antlers-templating-language) by Ben Furfie
