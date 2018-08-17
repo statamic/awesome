@@ -46,6 +46,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - `2017-07-23` - [Rebuilding Stillat.com](https://stillat.com/blog/2017/07/23/rebuilding-stillat) by John Koster
 - `2016-04-27` - [Statamic v2 on Laravel](https://zaengle.com/blog/statamic-v2-on-laravel) by Jesse Schutt/Zaengle
 
+## Videos
+- [Programming idiot trying to install Statamic](https://www.youtube.com/watch?v=U4Lt4imMNsM) by Justin Jackson
+
 ## Dev Tools
 
 - [Statamic CLI](https://github.com/statamic/cli) - Install and manage Statamic from the command line
