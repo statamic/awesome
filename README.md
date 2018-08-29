@@ -31,6 +31,12 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
+- `2018-08-29` - [How to setup PHPStorm for Statamic Antlers](https://medium.com/@garrant/how-to-setup-phpstorm-for-statamic-antlers-4ae2d8bad6ac) by Bryan Garrant
+- `2018-08-29` - [How to Setup Multi-Day Events with a Daily Schedule in Statamic](https://medium.com/@garrant/how-to-setup-multi-day-events-with-a-daily-schedule-in-statamic-5f589e0d121d) by Bryan Garrant
+- `2018-08-29` - [How to automatically generate a Sitemap XML file using Statamic CMS](https://medium.com/@garrant/how-to-automatically-generate-a-sitemap-xml-file-using-statamic-cms-7161c357011) by Bryan Garrant
+- `2018-08-29` - [Bootstrap 4 Navbar with Statamic 2.x CMS](https://medium.com/@garrant/bootstrap-4-navbar-with-statamic-2-x-cms-73ef2ee3e423) by Bryan Garrant
+- `2018-08-29` - [How to Setup Cron Task to Git Commit Statamic Changes Hourly on cPanel Server](https://medium.com/@garrant/how-to-setup-cron-task-to-git-commit-statamic-changes-hourly-on-cpanel-server-c4213892f6d2) by Bryan Garrant
+- `2018-08-29` - [How to setup Statamic above document root on cPanel with Git](https://medium.com/@garrant/how-to-setup-statamic-above-document-root-on-cpanel-with-git-8c7cef054611) by Bryan Garrant
 - `2018-08-02` - [Using Digital Ocean Spaces and KeyCDN within Statamic](https://medium.com/@ckdnat/using-digital-ocean-spaces-and-keycdn-within-statamic-d5e58bb7eb3c) by Nat Hobson
 - `2018-06-04` - [Adios Datenbanken](https://orlyapps.de/blog/web/statamic-als-content-management-system-adios-datenbanken) by Florian Strauß (German)
 - `2018-05-23` - [Replicate Advanced Custom Fields' Page Link field in Statamic](https://www.benfurfie.co.uk/blog/replicate-acfs-page-link-field-in-statamic) by Ben Furfie
