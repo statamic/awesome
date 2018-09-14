@@ -31,6 +31,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
+- `2018-09-12` - [Deploying Statamic with Envoyer.io](https://zaengle.com/blog/deploying-statamic-with-envoyer-io) by Steven Grant/Zaengle
 - `2018-08-29` - [How to setup PHPStorm for Statamic Antlers](https://medium.com/@garrant/how-to-setup-phpstorm-for-statamic-antlers-4ae2d8bad6ac) by Bryan Garrant
 - `2018-08-29` - [How to Setup Multi-Day Events with a Daily Schedule in Statamic](https://medium.com/@garrant/how-to-setup-multi-day-events-with-a-daily-schedule-in-statamic-5f589e0d121d) by Bryan Garrant
 - `2018-08-29` - [How to automatically generate a Sitemap XML file using Statamic CMS](https://medium.com/@garrant/how-to-automatically-generate-a-sitemap-xml-file-using-statamic-cms-7161c357011) by Bryan Garrant
