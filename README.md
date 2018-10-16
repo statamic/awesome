@@ -25,7 +25,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ## Community
 
 - [Issues & Feature Requests](https://github.com/statamic/v2-hub) Submit feature requests and report bugs.
-- [Slack](http://slack.statamic.com) - At nearly 2,000 users, the Slack group is a great way to meet folks and chat Statamic.
+- [Discord](https://statamic.com/discord) - The Discord chat server is a great way to meet folks and chat all things Statamic.
 - [Twitter](https://twitter.com/statamic) - Follow us, or join in the official community hashtag at `#statamic`.
 - [Videos](https://youtube.com/statamic) - Find videos and screencast series on learning Statamic.
 
