@@ -31,6 +31,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
+- `2018-11-21` - [Live weather data using a simple database and Statamic CMS](https://serieseight.com/journal/live-weather-data-using-a-simple-database-and-statamic-cms) by Series Eight
 - `2018-10-26` - [I Have a New Website (and why I went with Statamic)](https://justinjackson.ca/new-website) by Justin Jackson
 - `2018-09-12` - [Deploying Statamic with Envoyer.io](https://zaengle.com/blog/deploying-statamic-with-envoyer-io) by Steven Grant/Zaengle
 - `2018-09-12` - [Why and how you should use Tailwind to build your next Statamic theme](https://medium.com/@simonhamp/why-and-how-you-should-use-tailwind-to-build-your-next-statamic-theme-dc19a3f28237) by Simon Hamp
