@@ -31,6 +31,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
+- `2018-12-20` - [Pink Palm Trees and Clever Copy](https://straightforword.co.uk/pink-palm-trees-and-clever-copy-from-statamic/) by Straightforward Meg
 - `2018-11-21` - [Live weather data using a simple database and Statamic CMS](https://serieseight.com/journal/live-weather-data-using-a-simple-database-and-statamic-cms) by Series Eight
 - `2018-10-26` - [I Have a New Website (and why I went with Statamic)](https://justinjackson.ca/new-website) by Justin Jackson
 - `2018-09-12` - [Deploying Statamic with Envoyer.io](https://zaengle.com/blog/deploying-statamic-with-envoyer-io) by Steven Grant/Zaengle
@@ -58,6 +59,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Videos
 - [Programming idiot trying to install Statamic](https://www.youtube.com/watch?v=U4Lt4imMNsM) by Justin Jackson
+- [Statamic Screencasts](https://youtube.com/statamic) by Team Statamic
 
 ## Dev Tools
 
