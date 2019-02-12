@@ -16,6 +16,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ## Official Links
 
 - **Website** - [statamic.com](https://statamic.com)
+- **Statamic 3 News** - [v3.statamic.com](https://v3.statamic.com)
 - **Docs** - [docs.statamic.com](https://docs.statamic.com)
 - **Marketplace** - [statamic.com/marketplace](https://statamic.com/marketplace)
 - **Forum** - [statamic.com/forum](https://statamic.com/forum)
