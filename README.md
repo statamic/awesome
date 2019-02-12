@@ -32,6 +32,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
+- `2019-02-12` - [Self Hosted Wordpress Alternatives: Statamic](https://deliciousbrains.com/statamic-self-hosted-wordpress-alternatives-part-4/) by Matt Shaw
 - `2018-12-20` - [Pink Palm Trees and Clever Copy](https://straightforword.co.uk/pink-palm-trees-and-clever-copy-from-statamic/) by Straightforward Meg
 - `2018-11-21` - [Live weather data using a simple database and Statamic CMS](https://serieseight.com/journal/live-weather-data-using-a-simple-database-and-statamic-cms) by Series Eight
 - `2018-10-26` - [I Have a New Website (and why I went with Statamic)](https://justinjackson.ca/new-website) by Justin Jackson
