@@ -60,7 +60,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - `2017-07-23` - [Rebuilding Stillat.com](https://stillat.com/blog/2017/07/23/rebuilding-stillat) by John Koster
 - `2016-04-27` - [Statamic v2 on Laravel](https://zaengle.com/blog/statamic-v2-on-laravel) by Jesse Schutt/Zaengle
 
-_Articles before 2016 were for Statamic v1. There were a 4 years of them, but let's be honest &mdash; they're just not relevant anymore._
+_Articles before 2016 were for Statamic v1. There were 4 years of them, but let's be honest &mdash; they're just not relevant anymore._
 
 ## Videos
 - [Programming idiot trying to install Statamic](https://www.youtube.com/watch?v=U4Lt4imMNsM) by Justin Jackson
