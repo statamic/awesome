@@ -32,6 +32,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
+- `2019-02-15` - [What is Statamic and Why Should We Care?](https://www.hairylemon.co.nz/blog/what-is-statamic-and-why-should-we-care) - by HairyLemon
 - `2019-02-14` - [How do I update my website? Content management is fast and easy with [us]](https://monkeysource.co.uk/blog/how-do-i-update-my-website-content-management-is-fast-and-easy-with-monkeysource) by Will of MonkeySource
 - `2019-02-12` - [Self Hosted Wordpress Alternatives: Statamic](https://deliciousbrains.com/statamic-self-hosted-wordpress-alternatives-part-4/) by Matt Shaw
 - `2018-12-20` - [Pink Palm Trees and Clever Copy](https://straightforword.co.uk/pink-palm-trees-and-clever-copy-from-statamic/) by Straightforward Meg
