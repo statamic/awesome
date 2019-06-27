@@ -68,6 +68,7 @@ _Articles before 2016 were for Statamic v1. There were 4 years of them, but let'
 ## Videos
 - [Programming idiot trying to install Statamic](https://www.youtube.com/watch?v=U4Lt4imMNsM) by Justin Jackson
 - [Statamic Screencasts](https://youtube.com/statamic) by Team Statamic
+- [Installing and Deployment Strategies](https://curtismchale.ca/2019/06/18/getting-started-with-statamic-installing-and-deployment-strategies/) by Curtis McHale
 
 ## Dev Tools
 
