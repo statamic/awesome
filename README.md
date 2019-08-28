@@ -32,6 +32,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
+- `2019-08-26` - [Why I Moved from WordPress to Statamic](https://curtismchale.ca/2019/08/26/why-i-moved-from-wordpress-to-statamic)
 - `2019-03-12` - [Statamic Als Alternatief Voor Wordpress](https://www.studio1902.nl/blog/statamic-als-alternatief-voor-wordpress/) by by Rob Short 
 - `2019-02-15` - [What is Statamic and Why Should We Care?](https://www.hairylemon.co.nz/blog/what-is-statamic-and-why-should-we-care) - by HairyLemon
 - `2019-02-14` - [How do I update my website? Content management is fast and easy with [us]](https://monkeysource.co.uk/blog/how-do-i-update-my-website-content-management-is-fast-and-easy-with-monkeysource) by Will of MonkeySource
