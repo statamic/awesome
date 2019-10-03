@@ -61,7 +61,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - `2018-03-26` - [The Perfect CMS for Ultimate Control](https://hostpresto.com/blog/statamic-the-perfect-cms-for-ultimate-control/) by Mark Edwards/HostPresto
 - `2018-03-09` - [Build a membership site with Statamic](https://www.jamiedumont.co.uk/blog/statamic-membership-site) by Jamie Dumont
 - `2018-02-22` - [Statamic's "Bard" Is an Elegant-Looking Approach to Content Management](https://opuszine.us/posts/statamic-bard-elegant-looking-approach-content-management) by Jason Morehead/Opuszine
-- `2017-08-17` - [Exclude current entry from collection list in Statamic](https://www.benfurfie.co.uk/blog/exclude-current-entry-from-collection-list-in-statamic) by Ben Furfie
+- `2017-08-17` - [Exclude current entry from collection list in Statamic](https://benfurfie.co.uk/articles/exclude-current-entry-from-collection-list-in-statamic) by Ben Furfie
 - `2017-05-11` - [Integrating E-Commerce on Statamic](https://snipcart.com/blog/integrating-e-commerce-on-statamic-flat-file-cms) by Charles Ouellet/Snipcart
 - `2017-07-23` - [Rebuilding Stillat.com](https://stillat.com/blog/2017/07/23/rebuilding-stillat) by John Koster
 - `2016-04-27` - [Statamic v2 on Laravel](https://zaengle.com/blog/statamic-v2-on-laravel) by Jesse Schutt/Zaengle
