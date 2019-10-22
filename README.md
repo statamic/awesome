@@ -85,5 +85,8 @@ A curated list of known good (and not so good) [web hosts](https://github.com/st
 
 ## Podcasts
 
-- [Content Workflows for Statamic with Jack McDade](https://ctrlclickcast.com/episodes/content-workflows-for-statamic) on Ctrl+ClickCast
-- [Jack McDade on Statamic, Digital Products, Crypto, and CrossFit](http://thestrongweb.com/jack-mcdade) on The Strong Web
+- `2019-09-10` - [Knowing Your Audience, Making Mistakes, and Pricing Products (Statamic) vs Services with Jack McDade](https://rezzz.com/podcast/knowing-your-audience-making-mistakes-and-pricing-products-vs-services-with-jack-mcdade/) on Live in the Feast
+- `2019-09-04` - [Creating a Memorable Product with Jack McDade of Statamic](https://www.brightandearlypodcast.com/17) on Bright & Early
+- `2019-05-13` - [Flat is Beautiful: Statamic 3 with Jack McDade](https://devmode.fm/episodes/statamic-3-with-jack-mcdade) on devMode.fm
+- `2018-05-02` - [Jack McDade on Statamic, Digital Products, Crypto, and CrossFit](http://thestrongweb.com/jack-mcdade) on The Strong Web
+- `2017-03-30` - [Content Workflows for Statamic with Jack McDade](https://ctrlclickcast.com/episodes/content-workflows-for-statamic) on Ctrl+ClickCast
