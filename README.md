@@ -58,7 +58,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - `2018-05-21` - [How to control the type of files that can be uploaded in Statamic via the assets fieldtype](https://www.benfurfie.co.uk/blog/how-to-control-the-type-of-files-that-can-be-uploaded-in-statamic-via-the-assets-fieldtype) by Ben Furfie
 - `2018-05-18` - [Getting focal point to work on background images when using Statamic's glide functionality](https://www.benfurfie.co.uk/blog/getting-focal-point-to-work-on-background-images-when-using-statamics-glide-functionality) by Ben Furfie
 - `2018-05-18` - [How to strip (some) markdown markup from a tag in Statamic](https://www.benfurfie.co.uk/blog/how-to-strip-markdown-markup-from-tag-in-statamic) by Ben Furfie
-- `2018-05-08` - [How to change Statamic's please CLI tool to work on just please](https://www.benfurfie.co.uk/blog/how-to-change-statamics-please-cli-tool-to-work-on-just-please) by Ben Furfie
+- `2018-05-08` - [How to change Statamic's please CLI tool to work on just please](https://benfurfie.co.uk/articles/how-to-change-statamics-please-cli-tool-to-work-on-just-please) by Ben Furfie
 - `2018-03-26` - [The Perfect CMS for Ultimate Control](https://hostpresto.com/blog/statamic-the-perfect-cms-for-ultimate-control/) by Mark Edwards/HostPresto
 - `2018-03-09` - [Build a membership site with Statamic](https://www.jamiedumont.co.uk/blog/statamic-membership-site) by Jamie Dumont
 - `2018-02-22` - [Statamic's "Bard" Is an Elegant-Looking Approach to Content Management](https://opuszine.us/posts/statamic-bard-elegant-looking-approach-content-management) by Jason Morehead/Opuszine
