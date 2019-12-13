@@ -33,9 +33,11 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ## Articles
 
 - `2019-10-22` - [Fathom loves Statamic](https://usefathom.com/news/statamic) - by Paul Jarvis
+- `2019-09-16` - [Deploying a Statamic site to Netlify](https://rias.be/blog/deploying-a-statamic-site-to-netlify/) by Rias Van der Veken 
 - `2019-08-26` - [Why I Moved from WordPress to Statamic](https://curtismchale.ca/2019/08/26/why-i-moved-from-wordpress-to-statamic)
 - `2019-08-19` - [iPadOS Shortcuts for Publishing with Statamic](https://curtismchale.ca/2019/08/19/shortcuts-for-publishing-with-statamic)
 - `2019-08-16` - [Adding an Edit Link to the Frontend of a Statamic Theme](https://curtismchale.ca/2019/08/16/add-edit-url-to-statamic-content)
+- `2019-07-31` - [Creating a Statamic site helper for Laravel Mix](https://rias.be/blog/creating-a-statamic-site-helper-for-laravel-mix/) by Rias Van der Veken 
 - `2019-03-12` - [Statamic Als Alternatief Voor Wordpress](https://www.studio1902.nl/blog/statamic-als-alternatief-voor-wordpress/) by Rob de Kort 
 - `2019-02-15` - [What is Statamic and Why Should We Care?](https://www.hairylemon.co.nz/blog/what-is-statamic-and-why-should-we-care) - by HairyLemon
 - `2019-02-14` - [How do I update my website? Content management is fast and easy with [us]](https://monkeysource.co.uk/blog/how-do-i-update-my-website-content-management-is-fast-and-easy-with-monkeysource) by Will of MonkeySource
