@@ -32,6 +32,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
+- `2020-01-14` - [How to test Statamic tags](https://jonassiewertsen.com/blog/how-to-test-statamic-tags) by Jonas Siewertsen
+- `2020-01-11` - [How I am setting up my test suite for a Statamic addon](https://jonassiewertsen.com/blog/how-i-do-setup-my-test-suite-for-a-statamic-addon) by Jonas Siewertsen
+- `2020-01-07` - [Rethink everything: The process behind the relaunch of digital SPIEGEL](https://medium.com/@devspiegel/alles-neu-denken-der-prozess-hinter-dem-relaunch-des-digitalen-spiegel-331e76255e48 by Der SPIEGEL (German)
 - `2019-10-22` - [Fathom loves Statamic](https://usefathom.com/news/statamic) - by Paul Jarvis
 - `2019-09-16` - [Deploying a Statamic site to Netlify](https://rias.be/blog/deploying-a-statamic-site-to-netlify/) by Rias Van der Veken 
 - `2019-08-26` - [Why I Moved from WordPress to Statamic](https://curtismchale.ca/2019/08/26/why-i-moved-from-wordpress-to-statamic)
@@ -73,6 +76,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 _Articles before 2016 were for Statamic v1. There were 4 years of them, but let's be honest &mdash; they're just not relevant anymore._
 
 ## Videos
+- [Generating a static site with Statamic v3 and deploying on Netlify](https://www.youtube.com/watch?v=OHKJf4ytz3M) by OhSeeMedia
 - [Programming idiot trying to install Statamic](https://www.youtube.com/watch?v=U4Lt4imMNsM) by Justin Jackson
 - [Statamic Screencasts](https://youtube.com/statamic) by Team Statamic
 - [Installing and Deployment Strategies](https://curtismchale.ca/2019/06/18/getting-started-with-statamic-installing-and-deployment-strategies/) by Curtis McHale
