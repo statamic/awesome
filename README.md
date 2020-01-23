@@ -32,6 +32,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
+- `2020-01-22` - [Getting Statamic 3 running locally on a Mac](https://digitalevangelist.net/blog/getting-statamic-3-running-locally-on-a-mac)
 - `2020-01-14` - [How to test Statamic tags](https://jonassiewertsen.com/blog/how-to-test-statamic-tags) by Jonas Siewertsen
 - `2020-01-11` - [How I am setting up my test suite for a Statamic addon](https://jonassiewertsen.com/blog/how-i-do-setup-my-test-suite-for-a-statamic-addon) by Jonas Siewertsen
 - `2020-01-07` - [Rethink everything: The process behind the relaunch of digital SPIEGEL](https://medium.com/@devspiegel/alles-neu-denken-der-prozess-hinter-dem-relaunch-des-digitalen-spiegel-331e76255e48) by Der SPIEGEL (German)
