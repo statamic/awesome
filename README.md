@@ -78,6 +78,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 _Articles before 2016 were for Statamic v1. There were 4 years of them, but let's be honest &mdash; they're just not relevant anymore._
 
 ## Videos
+- [Use Statamic 3 CMS as a static site generator and deploy to Netlify](https://www.youtube.com/watch?v=4bTk5JeKydU) by Justin Jackson
 - [Generating a static site with Statamic v3 and deploying on Netlify](https://www.youtube.com/watch?v=OHKJf4ytz3M) by OhSeeMedia
 - [Programming idiot trying to install Statamic](https://www.youtube.com/watch?v=U4Lt4imMNsM) by Justin Jackson
 - [Statamic Screencasts](https://youtube.com/statamic) by Team Statamic
