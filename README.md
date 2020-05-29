@@ -62,11 +62,11 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - `2018-08-29` - [How to setup Statamic above document root on cPanel with Git](https://medium.com/@garrant/how-to-setup-statamic-above-document-root-on-cpanel-with-git-8c7cef054611) by Bryan Garrant
 - `2018-08-02` - [Using Digital Ocean Spaces and KeyCDN within Statamic](https://medium.com/@ckdnat/using-digital-ocean-spaces-and-keycdn-within-statamic-d5e58bb7eb3c) by Nat Hobson
 - `2018-06-04` - [Adios Datenbanken](https://orlyapps.de/blog/web/statamic-als-content-management-system-adios-datenbanken) by Florian Strauß (German)
-- `2018-05-23` - [Replicate Advanced Custom Fields' Page Link field in Statamic](https://www.benfurfie.co.uk/blog/replicate-acfs-page-link-field-in-statamic) by Ben Furfie
-- `2018-05-22` - [How to output SVGs as code in Statamic's Antlers templating language](https://www.benfurfie.co.uk/blog/how-to-output-svgs-as-code-in-statamics-antlers-templating-language) by Ben Furfie
-- `2018-05-21` - [How to control the type of files that can be uploaded in Statamic via the assets fieldtype](https://www.benfurfie.co.uk/blog/how-to-control-the-type-of-files-that-can-be-uploaded-in-statamic-via-the-assets-fieldtype) by Ben Furfie
-- `2018-05-18` - [Getting focal point to work on background images when using Statamic's glide functionality](https://www.benfurfie.co.uk/blog/getting-focal-point-to-work-on-background-images-when-using-statamics-glide-functionality) by Ben Furfie
-- `2018-05-18` - [How to strip (some) markdown markup from a tag in Statamic](https://www.benfurfie.co.uk/blog/how-to-strip-markdown-markup-from-tag-in-statamic) by Ben Furfie
+- `2018-05-23` - [Replicate Advanced Custom Fields' Page Link field in Statamic](https://www.benfurfie.co.uk/articles/replicate-acfs-page-link-field-in-statamic) by Ben Furfie
+- `2018-05-22` - [How to output SVGs as code in Statamic's Antlers templating language](https://www.benfurfie.co.uk/articles/how-to-output-svgs-as-code-in-statamics-antlers-templating-language) by Ben Furfie
+- `2018-05-21` - [How to control the type of files that can be uploaded in Statamic via the assets fieldtype](https://www.benfurfie.co.uk/articles/how-to-control-the-type-of-files-that-can-be-uploaded-in-statamic-via-the-assets-fieldtype) by Ben Furfie
+- `2018-05-18` - [Getting focal point to work on background images when using Statamic's glide functionality](https://www.benfurfie.co.uk/articles/getting-focal-point-to-work-on-background-images-when-using-statamics-glide-functionality) by Ben Furfie
+- `2018-05-18` - [How to strip (some) markdown markup from a tag in Statamic](https://www.benfurfie.co.uk/articles/how-to-strip-markdown-markup-from-tag-in-statamic) by Ben Furfie
 - `2018-05-08` - [How to change Statamic's please CLI tool to work on just please](https://benfurfie.co.uk/articles/how-to-change-statamics-please-cli-tool-to-work-on-just-please) by Ben Furfie
 - `2018-03-26` - [The Perfect CMS for Ultimate Control](https://hostpresto.com/blog/statamic-the-perfect-cms-for-ultimate-control/) by Mark Edwards/HostPresto
 - `2018-03-09` - [Build a membership site with Statamic](https://www.jamiedumont.co.uk/blog/statamic-membership-site) by Jamie Dumont
