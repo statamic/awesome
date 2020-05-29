@@ -32,6 +32,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
+- `2020-05-29` - [Using Statamic as a CMS alongside a Laravel app](https://raison.co/using-statamic-as-a-cms-alongside-a-laravel-app/) by Elliot Raison
 - `2020-02-27` - [Responsive images with Statamic, Tailwind and Glide](https://studio1902.nl/blog/responsive-images-with-statamic-tailwind-and-glide/) by Rob de Kort
 - `2020-01-22` - [Getting Statamic 3 running locally on a Mac](https://digitalevangelist.net/blog/getting-statamic-3-running-locally-on-a-mac)
 - `2020-01-19` - [Setting up for Statamic addon development](https://duncanm.dev/setting-up-for-statamic-addon-development) by Duncan McClean
