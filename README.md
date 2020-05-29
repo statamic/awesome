@@ -34,6 +34,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 - `2020-05-29` - [Using Statamic as a CMS alongside a Laravel app](https://raison.co/using-statamic-as-a-cms-alongside-a-laravel-app/) by Elliot Raison
 - `2020-05-23` - [Using GitHub's Gists for embedded code blocks on your Statamic v3 site](https://ohseemedia.com/posts/using-github-s-gists-for-embedded-code-blocks-on-your-statamic-v3-site/) by Oh See Media
+- `2020-05-06` - [How to customize the Statamic login and control panel](https://jonassiewertsen.com/blog/how-to-customize-statamic-views) by Jonas Siewertsen
 - `2020-02-27` - [Responsive images with Statamic, Tailwind and Glide](https://studio1902.nl/blog/responsive-images-with-statamic-tailwind-and-glide/) by Rob de Kort
 - `2020-02-23` - [Statamic 3 hosting with Laravel Forge](https://jonassiewertsen.com/blog/statamic-hosting-with-laravel-forge) by Jonas Siewertsen
 - `2020-01-22` - [Getting Statamic 3 running locally on a Mac](https://digitalevangelist.net/blog/getting-statamic-3-running-locally-on-a-mac)
