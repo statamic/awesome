@@ -16,7 +16,7 @@ Addons & Themes should be submitted to the [Marketplace](https://statamic.com/ma
 ### Articles
 To be added to the list, articles should meet the following criteria:
 
-- Focus primarily on content relevant to Statamic 2
+- Focus primarily on content relevant to Statamic 2 or 3
 - Written within the past 2 years
 - Include useful information
 
