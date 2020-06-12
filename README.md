@@ -32,6 +32,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 
+- `2020-06-12` – [Configure Statamic 3 to use Digital Ocean's Spaces for your asset container](https://benfurfie.co.uk/articles/configure-statamic-3-to-use-digital-ocean-spaces-for-asset-container) by Ben Furfie
+- `2020-05-31` - [Using queues and Envoyer to manage Statamic sites on load balanced servers](https://benfurfie.co.uk/articles/using-queues-and-envoyer-to-manage-statamic-sites-on-load-balanced-servers) by Ben Furfie
 - `2020-05-29` - [Using Statamic as a CMS alongside a Laravel app](https://raison.co/using-statamic-as-a-cms-alongside-a-laravel-app/) by Elliot Raison
 - `2020-05-23` - [Using GitHub's Gists for embedded code blocks on your Statamic v3 site](https://ohseemedia.com/posts/using-github-s-gists-for-embedded-code-blocks-on-your-statamic-v3-site/) by Oh See Media
 - `2020-05-06` - [How to customize the Statamic login and control panel](https://jonassiewertsen.com/blog/how-to-customize-statamic-views) by Jonas Siewertsen
