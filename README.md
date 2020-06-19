@@ -36,6 +36,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - `2020-05-31` - [Using queues and Envoyer to manage Statamic sites on load balanced servers](https://benfurfie.co.uk/articles/using-queues-and-envoyer-to-manage-statamic-sites-on-load-balanced-servers) by Ben Furfie
 - `2020-05-29` - [Using Statamic as a CMS alongside a Laravel app](https://raison.co/using-statamic-as-a-cms-alongside-a-laravel-app/) by Elliot Raison
 - `2020-05-23` - [Using GitHub's Gists for embedded code blocks on your Statamic v3 site](https://ohseemedia.com/posts/using-github-s-gists-for-embedded-code-blocks-on-your-statamic-v3-site/) by Oh See Media
+- `2020-05-23` - [Statamic 3 Resources & Tips](https://www.claritysquared.com/articles/statamic-v3-resources-and-tips) by Clarity Squared
 - `2020-05-06` - [How to customize the Statamic login and control panel](https://jonassiewertsen.com/blog/how-to-customize-statamic-views) by Jonas Siewertsen
 - `2020-04-14` - [Building a Likes addon in Statamic 3](https://duncanm.dev/building-a-likes-addon-in-statamic-3)
 - `2020-02-27` - [Responsive images with Statamic, Tailwind and Glide](https://studio1902.nl/blog/responsive-images-with-statamic-tailwind-and-glide/) by Rob de Kort
