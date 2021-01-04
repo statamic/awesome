@@ -35,7 +35,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - `2020-06-12` – [Configure Statamic 3 to use Digital Ocean's Spaces for your asset container](https://benfurfie.co.uk/articles/configure-statamic-3-to-use-digital-ocean-spaces-for-asset-container) by Ben Furfie
 - `2020-05-31` - [Using queues and Envoyer to manage Statamic sites on load balanced servers](https://benfurfie.co.uk/articles/using-queues-and-envoyer-to-manage-statamic-sites-on-load-balanced-servers) by Ben Furfie
 - `2020-05-29` - [Using Statamic as a CMS alongside a Laravel app](https://raison.co/using-statamic-as-a-cms-alongside-a-laravel-app/) by Elliot Raison
-- `2020-05-23` - [Using GitHub's Gists for embedded code blocks on your Statamic v3 site](https://ohseemedia.com/posts/using-github-s-gists-for-embedded-code-blocks-on-your-statamic-v3-site/) by Oh See Media
+- `2020-05-23` - [Using GitHub's Gists for embedded code blocks on your Statamic v3 site](https://owenconti.com/posts/using-github-s-gists-for-embedded-code-blocks-on-your-statamic-v3-site/) by Owen Conti
 - `2020-05-23` - [Statamic 3 Resources & Tips](https://www.claritysquared.com/articles/statamic-v3-resources-and-tips) by Clarity Squared
 - `2020-05-06` - [How to customize the Statamic login and control panel](https://jonassiewertsen.com/blog/how-to-customize-statamic-views) by Jonas Siewertsen
 - `2020-04-14` - [Building a Likes addon in Statamic 3](https://duncanm.dev/building-a-likes-addon-in-statamic-3)
@@ -88,7 +88,7 @@ _Articles before 2016 were for Statamic v1. There were 4 years of them, but let'
 
 ## Videos
 - [Use Statamic 3 CMS as a static site generator and deploy to Netlify](https://www.youtube.com/watch?v=4bTk5JeKydU) by Justin Jackson
-- [Generating a static site with Statamic v3 and deploying on Netlify](https://www.youtube.com/watch?v=OHKJf4ytz3M) by OhSeeMedia
+- [Generating a static site with Statamic v3 and deploying on Netlify](https://www.youtube.com/watch?v=OHKJf4ytz3M) by Owen Conti
 - [Programming idiot trying to install Statamic](https://www.youtube.com/watch?v=U4Lt4imMNsM) by Justin Jackson
 - [Statamic Screencasts](https://youtube.com/statamic) by Team Statamic
 - [Installing and Deployment Strategies](https://curtismchale.ca/2019/06/18/getting-started-with-statamic-installing-and-deployment-strategies/) by Curtis McHale
