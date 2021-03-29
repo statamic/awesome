@@ -38,11 +38,11 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - `2020-05-23` - [Using GitHub's Gists for embedded code blocks on your Statamic v3 site](https://owenconti.com/posts/using-github-s-gists-for-embedded-code-blocks-on-your-statamic-v3-site/) by Owen Conti
 - `2020-05-23` - [Statamic 3 Resources & Tips](https://www.claritysquared.com/articles/statamic-v3-resources-and-tips) by Clarity Squared
 - `2020-05-06` - [How to customize the Statamic login and control panel](https://jonassiewertsen.com/blog/how-to-customize-statamic-views) by Jonas Siewertsen
-- `2020-04-14` - [Building a Likes addon in Statamic 3](https://duncanm.dev/building-a-likes-addon-in-statamic-3)
+- `2020-04-14` - [Building a Likes addon in Statamic 3](https://duncanmcclean.com/building-a-likes-addon-in-statamic-3)
 - `2020-02-27` - [Responsive images with Statamic, Tailwind and Glide](https://studio1902.nl/blog/responsive-images-with-statamic-tailwind-and-glide/) by Rob de Kort
 - `2020-02-23` - [Statamic 3 hosting with Laravel Forge](https://jonassiewertsen.com/blog/statamic-hosting-with-laravel-forge) by Jonas Siewertsen
 - `2020-01-22` - [Getting Statamic 3 running locally on a Mac](https://digitalevangelist.net/blog/getting-statamic-3-running-locally-on-a-mac)
-- `2020-01-19` - [Setting up for Statamic addon development](https://duncanm.dev/setting-up-for-statamic-addon-development) by Duncan McClean
+- `2020-01-19` - [Setting up for Statamic addon development](https://duncanmcclean.com/setting-up-for-statamic-addon-development) by Duncan McClean
 - `2020-01-14` - [How to test Statamic tags](https://jonassiewertsen.com/blog/how-to-test-statamic-tags) by Jonas Siewertsen
 - `2020-01-11` - [How I am setting up my test suite for a Statamic addon](https://jonassiewertsen.com/blog/how-i-do-setup-my-test-suite-for-a-statamic-addon) by Jonas Siewertsen
 - `2020-01-07` - [Rethink everything: The process behind the relaunch of digital SPIEGEL](https://medium.com/@devspiegel/alles-neu-denken-der-prozess-hinter-dem-relaunch-des-digitalen-spiegel-331e76255e48) by Der SPIEGEL (German)
